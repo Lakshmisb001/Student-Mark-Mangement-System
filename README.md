@@ -11,6 +11,7 @@ USN: 4AL22CS080
 Sem/Section: VI/B
 
 
+
 A complete web application to manage student exam marks using JSP, Servlets, and MySQL, structured with the MVC design pattern.
 
 Features
