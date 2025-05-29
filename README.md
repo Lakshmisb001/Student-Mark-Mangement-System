@@ -113,8 +113,6 @@ Error Handling: Try-catch blocks and messages
 
 Security: Uses prepared statements
 
-UI: Mobile-friendly layout using Bootstrap
-
 Testing
 
 Check add, update, delete, and search functions
@@ -124,8 +122,6 @@ Handle invalid inputs and duplicate IDs
 Verify report accuracy and statistics
 
 Outcomes
-
-Learn MVC with Java web tech
 
 Understand full-stack web development with MySQL integration
 
