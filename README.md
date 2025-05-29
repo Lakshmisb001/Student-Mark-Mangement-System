@@ -32,8 +32,6 @@ Input Checks: Validations on both client and server sides
 
 User Interface: Responsive design using Bootstrap
 
-Architecture: Clean MVC separation
-
 Database: MySQL with JDBC
 
 Prerequisites
